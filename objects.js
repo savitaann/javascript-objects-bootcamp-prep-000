@@ -2,10 +2,10 @@ var playlist = {
   playlist: "object"
 };
 
-function updatePlaylist(playlist, Phil Ochs, Heres to the State of Mississippi){
-  playlist[platlist]: object
+function updatePlaylist(playlist, "Phil Ochs", "Here's to the State of Mississippi"){
+  playlist[playlist]: object
 
   return playlist
 };
 
-const playlist
+
