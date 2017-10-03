@@ -2,7 +2,7 @@ var playlist = {
   playlist: "object"
 };
 
-function updatePlaylist(playlist, "Phil Ochs", "Here's to the State of Mississippi"){
+function updatePlaylist(playlist, artistName, songTitle){
     updatePlaylist[Phil Ochs] = "Here's to the State of Mississippi"
 
   return updatePlaylist
